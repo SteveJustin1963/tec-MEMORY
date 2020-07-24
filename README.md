@@ -29,6 +29,37 @@ TEC-1 ram is small and volatile. expanding ram and nvram have been outlined in T
 ## Acknowledgements
 
 ## References
+https://www.computerhistory.org/timeline/memory-storage/
 
 ## Iterate, new hypotheses or predictions
+explore retro memory designs
+* magnetic core
+* paper tape
+* caps
+* diodes
+* tapes
+* crt
+* mercury delay line (use some other safe liquid)
+* magnetic disk
+* magnetostrictive delay line
+* floppy disk drive
+* photos storage
+* rope memory
+* nram, dram
+* data+cassette
+* cdrom laser
+* bubble memory
+* flash memory
+* hard disk unit
+* solid state disk (SSD)
+* Magneto-Optical Discs
+* CompactFlash
+* USB flash drives
+* Cloud, Dropbox 
+
+
+
+
+
+
 
