@@ -41,6 +41,7 @@ explore retro memory designs
 * crt
 * mercury delay line (use some other safe liquid)
 * magnetic disk
+* magnetic drum (scifi Robbie the Robot "Forbidden Planet" 1956)
 * magnetostrictive delay line
 * floppy disk drive
 * photos storage
