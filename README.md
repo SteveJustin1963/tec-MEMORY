@@ -37,12 +37,19 @@ explore memory designs, retro and new
 * paperclip
 * audio file, tape, broadcast, vynl, metal wire, 
 
+- Storage upgrade
+ - Floppy
+ - HDU
+ - SDRAM
+ - USB Memory
+ - 
 
 
 
 
 
 ## References
-https://www.computerhistory.org/timeline/memory-storage/
+- https://www.computerhistory.org/timeline/memory-storage/
+
 
 
